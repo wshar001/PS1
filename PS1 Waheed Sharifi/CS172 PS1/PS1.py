@@ -15,16 +15,16 @@ class docIndex:
         Index.index = {}
         
         List = sorted(Index.index)
-        tempDict = {}
+        Dictionary = {}
         for key in List:
-            tempDict[key] = Index.index[key]
+            Dictionary[key] = Index.index[key]
         
         Index.stopList = []
         for word in open(Index.path + '/' + "stoplist.txt"):
             Index.stopList.append(word.strip())
 
 
-        Index.index = tempDict
+        Index.index = Dictionary
         Index.documentIndex = {}
 
     def createIndex(Index):
