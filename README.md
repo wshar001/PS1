@@ -1,7 +1,7 @@
 # Instructions
 First Download the Zip it should be titled PS1 Waheed Sharifi -Master
 
-I used PyDev for Eclipse IDE, instructions on how to install it through Eclipse IDE marketplace is here, you can skip straight to downloading PyDev if you have Eclipse IDE already.
+I used PyDev for Eclipse IDE, instructions on how to install it through Eclipse IDE marketplace is here, you can skip straight to installing PyDev if you have Eclipse IDE already.
 
 https://cloud.google.com/appengine/docs/standard/python/tools/setting-up-eclipse
 
