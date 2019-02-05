@@ -1,5 +1,5 @@
 # Instructions
-First Download the Zip it should be titled PS1 Waheed Sharifi
+First Download the Zip it should be titled PS1 Waheed Sharifi -Master
 
 I used PyDev for Eclipse IDE, instructions on how to install it through Eclipse IDE marketplace is here
 
